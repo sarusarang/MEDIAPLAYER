@@ -1,0 +1,41 @@
+* {
+
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar{
+  display: none;
+}
+
+
+.bg-body-tertiary {
+
+  background-color: transparent !important;
+}
+
+.bg-footer {
+
+  background: radial-gradient(circle at -8.9% 51.2%, rgb(255, 124, 0) 0%, rgb(255, 124, 0) 15.9%, rgb(255, 163, 77) 15.9%, rgb(255, 163, 77) 24.4%, rgb(19, 30, 37) 24.5%, rgb(19, 30, 37) 66%);
+}
+
+
+.video-card {
+
+  box-shadow: 0 0 50px 15px #1b2734;
+}
+
+.show-category{
+
+  background-color: #070708;
+}
+
+.inner-category{
+
+  box-shadow: 0 0 50px 15px var(--bs-focus-ring-color);
+  border: 1px solid #2a9fd6;
+  background-color: #222222;
+  color: #fff;
+
+}
