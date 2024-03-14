@@ -1,1 +1,1 @@
-export const BASE_URL = "https://mediaplayer-server-hc1a.onrender.com/"
+export const BASE_URL = "https://mediaplayer-server-hc1a.onrender.com"
